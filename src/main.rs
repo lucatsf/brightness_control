@@ -1,6 +1,6 @@
 use gtk::prelude::*;
 use gtk::{Adjustment, Application, ApplicationWindow, ComboBoxText, Orientation, Scale};
-use std::process::{Command};
+use std::process::Command;
 
 fn main() {
     let application = Application::new(Some("com.lucatsf.brightness_control"), Default::default());

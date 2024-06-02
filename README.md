@@ -9,7 +9,7 @@ Brightness Control é um aplicativo para controlar o brilho do monitor em sistem
 
 ## Capturas de Tela
 
-(Adicione aqui capturas de tela do seu aplicativo)
+![image](https://github.com/lucatsf/brightness_control/assets/18267941/98ab7ad1-e48f-4abd-adac-15c607360714)
 
 ## Requisitos
 
